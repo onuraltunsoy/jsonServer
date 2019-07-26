@@ -1,0 +1,22 @@
+{
+    "users": [
+    {
+        "id": "1",
+        "name": "onur Altunsoy",
+        "salary": "5000",
+        "department": "Yazılım"
+    },
+    {
+        "id": "2",
+        "name": "fatih Altunsoy",
+        "salary": "5000",
+        "department": "inşaat"
+    },
+    {
+        "id": "3",
+        "name": "ahmet mehmet",
+        "salary": "6000",
+        "department": "üretim"
+    }
+]
+}
